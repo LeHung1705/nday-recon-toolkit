@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+reports/*.md
+!reports/.gitkeep
+.claude/settings.local.json
